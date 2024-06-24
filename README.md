@@ -1,6 +1,5 @@
 # Tun2SocksKit
 
-
 This repository is a wrapper and a build workflow for [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
 
 ## Original Developer ([arror](https://github.com/arror/))
@@ -66,8 +65,7 @@ misc:
   limit-nofile: 65535
 ```
 
-
-
-
-
+### References
+* [Tun2SocksKit](https://github.com/EbrahimTahernejad/Tun2SocksKit)
+* [limit the number of TCP connections to limit memory usage](https://github.com/heiher/hev-socks5-tunnel/issues/109)
 
