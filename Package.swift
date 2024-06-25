@@ -27,7 +27,7 @@ let package = Package(
     .binaryTarget(
         name: "HevSocks5Tunnel",
         url: "https://github.com/PandaSpeed/Tun2SocksKit/releases/download/3.6.9/HevSocks5Tunnel.xcframework.zip",
-        checksum: "0d086354df56b30ec4d935e5545d9eb7a4f7282841abc998fb7cff9eb9279923"
+        checksum: "dd0a68e9b63997856f4b272c985096ad95e9b40756bfe390dfc6352e2e7708bb"
     )
   ]
 )
